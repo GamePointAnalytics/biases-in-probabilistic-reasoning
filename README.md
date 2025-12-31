@@ -1,6 +1,6 @@
 # Biases in Probabilistic Reasoning
 
-This research examines the winning probabilities across various scoring scenarios in tennis and reveals that the common-sense theoretical model makes accurate probability predictions at the macro level (set level) but inaccurate predictions at the micro level (game level). This suggests that our intuitive probabilistic estimates of tennis game outcomes are often incorrect but could make the game more exciting and engaging for spectators. but could make the game more exciting and engaging for spectators.
+This research examines the winning probabilities across various scoring scenarios in tennis and reveals that the common-sense theoretical model makes accurate probability predictions at the macro level (set level) but inaccurate predictions at the micro level (game level). This suggests that our intuitive probabilistic estimates of tennis game outcomes are often incorrect but could make the game more exciting and engaging for spectators.
 
 ## Project Structure
 
@@ -15,7 +15,7 @@ In sports games, the excitement and suspense felt by the spectators are essentia
 
 ### 🐍 [`scripts/python/`](scripts/python/)
 Python scripts and notebooks for analysis and modeling.
-- **`Tennis_Analytics.ipynb`**: The core analysis notebook. Handles data cleaning, match statistics, and handedness analysis. Corrected and optimized for local execution.
+- **`Tennis_Analytics.ipynb`**: The core analysis notebook. Handles data cleaning, match statistics, and handedness analysis. 
 - **`tennis_probabilities.py`**: A Python implementation of the tennis win probability model (originally in C#). Uses memoized recursion to calculate game, set, and tiebreak probabilities.
 
 ### 📂 [`data/`](data/)
