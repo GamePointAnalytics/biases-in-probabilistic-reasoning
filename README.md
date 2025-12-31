@@ -1,6 +1,6 @@
 # Biases in Probabilistic Reasoning
 
-This research examines the winning probabilities across various scoring scenarios in tennis and reveals that the common-sense theoretical model makes accurate probability predictions at the macro level (set level) but inaccurate predictions at the micro level (game level). This suggests that our intuitive probabilistic estimates of tennis game outcomes are often incorrect.
+This research examines the winning probabilities across various scoring scenarios in tennis and reveals that the common-sense theoretical model makes accurate probability predictions at the macro level (set level) but inaccurate predictions at the micro level (game level). This suggests that our intuitive probabilistic estimates of tennis game outcomes are often incorrect but could make the game more exciting and engaging for spectators. but could make the game more exciting and engaging for spectators.
 
 ## Project Structure
 
