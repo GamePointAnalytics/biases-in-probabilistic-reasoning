@@ -21,4 +21,4 @@ This folder contains cleaned and processed tennis match data used for analysis.
 Data is sourced from the [Tennis Match Charting Project](https://github.com/JeffSackmann/tennis_MatchChartingProject).
 
 ## Usage
-These files are processed inputs for the analysis scripts in `../scripts/python/`. The notebook `Tennis_Analytics.ipynb` expects these files to be present or referenced during execution.
+These files are processed inputs for the analysis scripts in `../scripts/python/`.
