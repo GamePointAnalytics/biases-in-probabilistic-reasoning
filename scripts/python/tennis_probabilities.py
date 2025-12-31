@@ -1,3 +1,4 @@
+# This program calculates the winning probability based on the common probability model.
 import functools
 
 def to_traditional_score(score):
