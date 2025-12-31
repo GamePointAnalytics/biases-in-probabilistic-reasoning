@@ -1,11 +1,11 @@
 # Biases in Probabilistic Reasoning
 
-Exploration and research into common cognitive biases that affect probabilistic reasoning, specifically applied to tennis match analytics.
+This research examines the winning probabilities across various scoring scenarios in tennis and reveals that the common-sense theoretical model makes accurate probability predictions at the macro level (set level) but inaccurate predictions at the micro level (game level). This suggests that our intuitive probabilistic estimates of tennis game outcomes are often incorrect.
 
 ## Project Structure
 
 ### 📄 [`paper/`](paper/)
-Contains the primary research paper and related literature.
+Contains the primary research paper.
 - **`zhu_biases_probabilistic_reasoning_2024.pdf`**: The main research paper.
 - Stephen Zhu (2024). Biases in Micro-level Probabilistic Reasoning and Its Impact on the Spectators’ Enjoyment of Tennis Games, Intelligent Technologies for Interactive Entertainment, Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 560, Springer. https://doi.org/10.1007/978-3-031-55722-4_9
 
