@@ -6,7 +6,7 @@ This research examines the winning probabilities across various scoring scenario
 
 ### 📄 [`paper/`](paper/)
 - [Research paper](paper/zhu_biases_probabilistic_reasoning_2024.pdf).
-- Stephen Zhu (2024). Biases in Micro-level Probabilistic Reasoning and Its Impact on the Spectators’ Enjoyment of Tennis Games, Intelligent Technologies for Interactive Entertainment, Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 560, Springer. https://doi.org/10.1007/978-3-031-55722-4_9
+- S. Zhu (2024). Biases in Micro-level Probabilistic Reasoning and Its Impact on the Spectators’ Enjoyment of Tennis Games, Intelligent Technologies for Interactive Entertainment, Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 560, Springer. https://doi.org/10.1007/978-3-031-55722-4_9
 
 **Abstract**
 
