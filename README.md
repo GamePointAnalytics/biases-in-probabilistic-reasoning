@@ -5,7 +5,7 @@ This research examines the winning probabilities across various scoring scenario
 ## Project Structure
 
 ### 📄 [`paper/`](paper/)
-- The [research paper](/biases-in-probabilistic-reasoning/paper/zhu_biases_probabilistic_reasoning_2024.pdf).
+- The [research paper](paper/zhu_biases_probabilistic_reasoning_2024.pdf).
 - Stephen Zhu (2024). Biases in Micro-level Probabilistic Reasoning and Its Impact on the Spectators’ Enjoyment of Tennis Games, Intelligent Technologies for Interactive Entertainment, Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 560, Springer. https://doi.org/10.1007/978-3-031-55722-4_9
 
 **Abstract**
@@ -27,7 +27,3 @@ Output files and verification benchmarks.
 - Contains CSV comparisons of win probabilities used to verify the Python model against theoretical baselines.
 - *See [`results/README.md`](results/README.md) for details.*
 
-## Getting Started
-1.  **Data**: Ensure dataset files are in `data/`.
-2.  **Analysis**: Run `scripts/python/Tennis_Analytics.ipynb` using Jupyter Notebook or VS Code.
-3.  **Modeling**: Run `scripts/python/tennis_probabilities.py` to see probability scenarios.
