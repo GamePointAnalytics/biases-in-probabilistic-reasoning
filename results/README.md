@@ -14,5 +14,5 @@ This folder contains the output results from the tennis win probability models.
 
 ## Usage
 These files are primarily used for:
-1.  **Verification**: Validating the Python implementation (`tennis_probabilities.py`) against known baselines theoretical model outputs.
-2.  **Analysis**: analyzing win probabilities for different game and set score scenarios.
+1.  **Verification**: Validating the Python implementation (`tennis_probabilities.py`) against known baseline theoretical model outputs.
+2.  **Analysis**: Analyzing win probabilities for different game and set score scenarios.
